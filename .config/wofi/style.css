@@ -1,0 +1,67 @@
+
+#outer-box {
+	border-radius: 20px;
+	background-color: rgba(40,40,40,0.75);
+	border: 0px solid rgba(81, 36, 36, 0.75);
+	color: rgb(200,200,200);
+	
+}
+
+#inner-box {
+	border-radius: 20px;
+	background-color: rgba(40,40,40,0.5);
+	color: rgb(200,200,200);
+	padding:10px;
+}
+
+#window {
+	border-radius: 20px;
+	background-color: rgba(40,40,40,0.5);
+	color: rgb(200,200,200);
+        	
+}
+
+#input {
+	border-radius: 20px;
+	background-color: rgba(40,40,40,0.5);
+	color: rgb(200,200,200);
+	padding: 5px;
+	font-size:20px;
+	outline: none; /* Remove a borda padrão */
+    box-shadow: none; /* Remove qualquer sombra */
+    border: 0px; /* Remove a borda, se necessário */	outline: none;
+	
+}
+
+
+
+
+#scroll {
+	border-radius: 20px;
+	background-color: rgba(40,40,40,0.5);
+	color: rgb(200,200,200);
+	padding-top: 0px;
+	padding-bottom: 10px;
+	border: 0px;
+}
+
+#entry:selected {
+	background-color: rgba(50,50,50,0.5);
+	color: rgb(200,200,200);
+	border-radius: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 0px;
+}
+
+#text{
+	font-size: 20px;
+	border-radius: 20px;
+	border: 0px;
+}
+
+
+#img {
+	padding-right: 20px;
+	border: 0px;
+}

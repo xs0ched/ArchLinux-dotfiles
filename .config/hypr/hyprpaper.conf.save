@@ -1,0 +1,12 @@
+
+$image = /home/jfbf/images/wallhaven-856dlk.png
+
+preload = $image
+wallpaper= HDMI-A-1, $image
+
+
+
+
+
+
+

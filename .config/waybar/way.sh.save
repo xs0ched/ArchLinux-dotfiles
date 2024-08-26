@@ -1,0 +1,11 @@
+bin/bash 
+
+while(true){
+waybar;
+echo "waybar";
+sleep 1;
+killall waybar;
+echo "kill waybar";
+sleep 1
+
+)
