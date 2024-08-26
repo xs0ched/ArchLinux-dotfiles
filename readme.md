@@ -1,8 +1,3 @@
-## Reference
-
-For more details, tips, and discussions about the Hyprland Rice project, feel free to check out my Reddit post.
-
-# [Reddit Post](https://www.reddit.com/r/unixporn/comments/1f0fhno/hyprland_first_rice_any_tips/)
 
 ## Overview
 
