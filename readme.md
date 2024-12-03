@@ -1,7 +1,7 @@
 
 ## Overview
 
-````Hyprland```` - ````Wayland```` - ```ArchLinux```, here are my dotfiles. 
+````Hyprland```` - ````Wayland```` - ```ArchLinux```, here are my dotfiles:
 
 ## Preview
 
