@@ -5,7 +5,7 @@
 
 ## Preview
 
-Here are some images of the Hyprland setup:
+Here are some images of my Hyprland setup:
 
 ![image](https://github.com/user-attachments/assets/95a9d9ee-0ac7-472d-8df9-8bba07c4d936)
 ![image](https://github.com/user-attachments/assets/77c2aa01-f3b9-44e0-a85d-493908e64c00)
