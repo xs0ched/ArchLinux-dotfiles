@@ -20,4 +20,4 @@ Here are some images of my Hyprland setup:
 
 --- 
 
-Feel free to replace the image links and Reddit post link with your actual URLs.
+
