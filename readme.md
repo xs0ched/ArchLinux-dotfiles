@@ -1,7 +1,7 @@
 
 ## Overview
 
-Hyprland is a dynamic tiling ````Wayland```` compositor for ```ArchLinux```, and this rice project focuses on customizing its appearance and functionality to create an aesthetically pleasing environment tailored to your preferences. Here are my dotfiles. 
+````Hyprland```` - ````Wayland```` - ```ArchLinux```, here are my dotfiles. 
 
 ## Preview
 
